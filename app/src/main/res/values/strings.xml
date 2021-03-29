@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mr. WORLDWIDE NEWS</string>
+    <string name="department_of_computer_science">Department of Computer science</string>
+    <string name="textview">TextView</string>
+    <string name="suriyaa_v">SURIYAA . V</string>
+    <string name="gowri_shankar_r">GOWRI SHANKAR . R</string>
+    <string name="vijayabhaskar_s_b">VIJAYABHASKAR S.B</string>
+    <string name="guided_by">Guided By:</string>
+    <string name="mr_vivek_justus">MR.VIVEK JUSTUS</string>
+    <string name="start">START</string>
+    <string name="developed_by">Developed By:</string>
+    <string name="pankaj_kumar">PANKAJ KUMAR</string>
+    <string name="madhu_sudhan_reddy">MADHU SUDHAN REDDY</string>
+    <string name="veltech">Veltech</string>
+</resources>
